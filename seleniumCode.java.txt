@@ -4,4 +4,9 @@ class ganesh{
 
 System.out.println("this is the update:");
 
+public void gitstatus()
+{
+
+System.out.println("Commited");
+}
 }
